@@ -3,7 +3,7 @@
 A classic Tic Tac Toe game where a human player competes against an AI opponent. 
 The AI uses simple algorithms to make strategic decisions, providing a challenging experience.
 ## Features
-- Play Tic Tac Toe against an AI opponent
+- Play Tic Tac Toe against an AI opponen
 - Validates moves and prevents invalid entries
 - Detects winning, losing, or draw conditions automatically
 - User-friendly interface for easy gameplay
@@ -15,3 +15,4 @@ The AI uses simple algorithms to make strategic decisions, providing a challengi
 - Console-based or browser interface
 - ## Author
 Ahmed Tamer – [GitHub Profile](https://github.com/AhmedTamer025)
+-Team Project- {The team is made up of five members.}
